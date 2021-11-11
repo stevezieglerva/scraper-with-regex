@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+scraper-with-regex.code-workspace
+reports/**/**
+
+
+urls.txt
